@@ -1,0 +1,43 @@
+footer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  background-color: var(--db);
+  color: white;
+  font-size: 1.9em;
+  text-align: center;
+
+  padding: 40px 0px;
+  margin-bottom: 25px;
+}
+
+address {
+  font-style: normal;
+  font-size: 0.8em;
+  margin-bottom: 30px;
+}
+
+footer ul {
+  margin: 0;
+  padding: 0;
+}
+
+footer li {
+  list-style: none;
+}
+
+footer a {
+  color: var(--b);
+  text-decoration: none;
+}
+
+footer h5 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+iframe {
+  width: 60%;
+  height: 375px;
+}

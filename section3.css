@@ -1,0 +1,49 @@
+#team {
+  background-color: var(--db);
+  padding: 75px 0;
+  margin: 0 auto;
+  color: white;
+}
+
+#team h3 {
+  padding: 10px;
+  margin: 0;
+  font-size: 5em;
+}
+
+/* #team .member-name {} */
+
+#team .section-text {
+  font-size: 1.9em;
+  width: 60%;
+  margin: 10px auto;
+}
+
+#team .member-name {
+  font-size: 2.5em;
+  font-weight: 700;
+  color: white;
+  padding-bottom: 20px;
+}
+
+#team img {
+  width: 250px;
+  height: 180px;
+}
+
+#team hr {
+  margin: 20px auto 30px auto;
+  width: 40%;
+}
+
+#team div {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#team article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
